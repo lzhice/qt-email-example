@@ -1,2 +1,2 @@
 # qt-email
-Qt wrapper around smtp, intended to send/receive e-mails
+Qt wrapper around SMTP, intended to send/receive e-mails
